@@ -1,0 +1,91 @@
+{
+    "root": {
+        "name": "nivo",
+        "color": "hsl(273, 70%, 50%)",
+        "children": [
+            {
+                "name": "Company",
+                "color": "hsl(217, 70%, 50%)",
+                "children": [
+                    {
+                        "name": "Makor",
+                        "color": "hsl(217, 10%, 10%)",
+                        "children": [
+                            {
+                                "name": "Equity",
+                                "color": "hsl(217, 70%, 50%)",
+                                "children": [
+                                    {
+                                        "name": "Avi Avital",
+                                        "color": "hsl(217, 70%, 50%)",
+                                        "pnl": 5
+                                    },
+                                    {
+                                        "name": "David Quinn",
+                                        "color": "hsl(217, 70%, 50%)",
+                                        "pnl": 3
+                                    },
+                                    {
+                                        "name": "Simon Scemama",
+                                        "color": "hsl(217, 70%, 50%)",
+                                        "pnl": 3
+                                    },
+                                    {
+                                        "name": "Antony Reiner",
+                                        "color": "hsl(217, 70%, 50%)",
+                                        "pnl": 2
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Derivatives",
+                                "color": "hsl(346, 70%, 50%)",
+                                "pnl": 13
+                            },
+                            {
+                                "name": "Fixed Income",
+                                "color": "hsl(253, 70%, 50%)",
+                                "pnl": 7
+                            },
+                            {
+                                "name": "FX",
+                                "color": "hsl(253, 70%, 50%)",
+                                "pnl": 5
+                            },
+                            {
+                                "name": "Research",
+                                "color": "hsl(217, 70%, 50%)",
+                                "pnl": 7
+                            },
+                            {
+                                "name": "Structured",
+                                "color": "hsl(346, 70%, 50%)",
+                                "pnl": 7
+                            },
+                            {
+                                "name": "Rates Swap",
+                                "color": "hsl(253, 70%, 50%)",
+                                "pnl": 3
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Oscar Gruss",
+                        "color": "hsl(346, 70%, 50%)",
+                        "pnl": 19
+                    },
+                    {
+                        "name": "Makor Og",
+                        "color": "hsl(7, 70%, 50%)",
+                        "pnl": 25
+                    },
+                    {
+                        "name": "Enigma",
+                        "color": "hsl(253, 70%, 50%)",
+                        "pnl": 21
+                    }
+                ]
+            }
+        ]
+    }
+}

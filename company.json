@@ -1,0 +1,38 @@
+{
+    "root": {
+        "name": "nivo",
+        "color": "hsl(273, 70%, 50%)",
+        "children": [
+            {
+                "name": "Company",
+                "color": "hsl(217, 70%, 50%)",
+                "children": [
+                    {
+                        "name": "Makor",
+                        "pnl": "25",
+                        "color": "hsl(217, 10%, 10%)",
+                        "size": 0
+                    },
+                    {
+                        "name": "Oscar Gruss",
+                        "pnl": "30",
+                        "color": "hsl(346, 70%, 50%)",
+                        "size": 0
+                    },
+                    {
+                        "name": "Makor Og",
+                        "pnl": "25",
+                        "color": "hsl(7, 70%, 50%)",
+                        "size": 0
+                    },
+                    {
+                        "name": "Enigma",
+                        "pnl": "30",
+                        "color": "hsl(253, 70%, 50%)",
+                        "size": 0
+                    }
+                ]
+            }
+        ]
+    }
+}

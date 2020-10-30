@@ -1,0 +1,220 @@
+{
+    "root": {
+        "name": "nivo",
+        "color": "hsl(273, 70%, 50%)",
+        "children": [
+            {
+                "name": "Equity",
+                "color": "hsl(217, 70%, 50%)",
+                "children": [
+                    {
+                        "name": "Makor FX",
+                        "color": "hsl(217, 70%, 50%)",
+                        "pnl": 20
+                    },
+                    {
+                        "name": "OG NY FX",
+                        "color": "hsl(346, 70%, 50%)",
+                        "pnl": 40
+                    },
+                    {
+                        "name": "OG NY Derivates",
+                        "color": "hsl(253, 70%, 50%)",
+                        "pnl": 35
+                    },
+                    {
+                        "name": "Makor Equity",
+                        "color": "hsl(253, 70%, 50%)",
+                        "pnl": 15
+                    },
+                    {
+                        "name": "OG NY Equity",
+                        "color": "hsl(217, 70%, 50%)",
+                        "pnl": 40
+                    }
+                ]
+            },
+            {
+                "name": "Derivatives",
+                "color": "hsl(346, 70%, 50%)",
+                "children": [
+                    {
+                        "name": "Enigma Crypto",
+                        "color": "hsl(217, 70%, 50%)",
+                        "pnl": 30
+                    },
+                    {
+                        "name": "Makor Fixed Income",
+                        "color": "hsl(346, 70%, 50%)",
+                        "pnl": 25
+                    },
+                    {
+                        "name": "OG NY Derivates",
+                        "color": "hsl(253, 70%, 50%)",
+                        "pnl": 23
+                    },
+                    {
+                        "name": "Makor Equity",
+                        "color": "hsl(253, 70%, 50%)",
+                        "pnl": 40
+                    }
+                ]
+            },
+            {
+                "name": "Fixed Income",
+                "color": "hsl(253, 70%, 50%)",
+                "children": [
+                    {
+                        "name": "Makor FX",
+                        "color": "hsl(217, 70%, 50%)",
+                        "pnl": 13
+                    },
+                    {
+                        "name": "OG NY FX",
+                        "color": "hsl(346, 70%, 50%)",
+                        "pnl": 40
+                    },
+                    {
+                        "name": "OG NY Derivates",
+                        "color": "hsl(253, 70%, 50%)",
+                        "pnl": 20
+                    },
+                    {
+                        "name": "Makor Equity",
+                        "color": "hsl(253, 70%, 50%)",
+                        "pnl": 15
+                    },
+                    {
+                        "name": "OG NY Equity",
+                        "color": "hsl(217, 70%, 50%)",
+                        "pnl": 14
+                    }
+                ]
+            },
+            {
+                "name": "FX",
+                "color": "hsl(253, 70%, 50%)",
+                "children": [
+                    {
+                        "name": "Enigma Crypto",
+                        "color": "hsl(217, 70%, 50%)",
+                        "pnl": 15
+                    },
+                    {
+                        "name": "Makor Fixed Income",
+                        "color": "hsl(346, 70%, 50%)",
+                        "pnl": 17
+                    },
+                    {
+                        "name": "OG NY Derivates",
+                        "color": "hsl(253, 70%, 50%)",
+                        "pnl": 17
+                    },
+                    {
+                        "name": "Makor Equity",
+                        "color": "hsl(253, 70%, 50%)",
+                        "pnl": 25
+                    },
+                    {
+                        "name": "OG ISR Equity",
+                        "color": "hsl(217, 70%, 50%)",
+                        "pnl": 17
+                    }
+                ]
+            },
+            {
+                "name": "Research",
+                "color": "hsl(217, 70%, 50%)",
+                "children": [
+                    {
+                        "name": "Enigma Crypto",
+                        "color": "hsl(217, 70%, 50%)",
+                        "pnl": 13
+                    },
+                    {
+                        "name": "Makor Fixed Income",
+                        "color": "hsl(346, 70%, 50%)",
+                        "pnl": 7
+                    },
+                    {
+                        "name": "OG NY Derivates",
+                        "color": "hsl(253, 70%, 50%)",
+                        "pnl": 7
+                    },
+                    {
+                        "name": "Makor Equity",
+                        "color": "hsl(253, 70%, 50%)",
+                        "pnl": 5
+                    },
+                    {
+                        "name": "OG ISR Equity",
+                        "color": "hsl(217, 70%, 50%)",
+                        "pnl": 7
+                    }
+                ]
+            },
+            {
+                "name": "Structured",
+                "color": "hsl(346, 70%, 50%)",
+                "children": [
+                    {
+                        "name": "Enigma Crypto",
+                        "color": "hsl(217, 70%, 50%)",
+                        "pnl": 13
+                    },
+                    {
+                        "name": "Makor Fixed Income",
+                        "color": "hsl(346, 70%, 50%)",
+                        "pnl": 7
+                    },
+                    {
+                        "name": "OG NY Derivates",
+                        "color": "hsl(253, 70%, 50%)",
+                        "pnl": 7
+                    },
+                    {
+                        "name": "Makor Equity",
+                        "color": "hsl(253, 70%, 50%)",
+                        "pnl": 5
+                    },
+                    {
+                        "name": "OG ISR Equity",
+                        "color": "hsl(217, 70%, 50%)",
+                        "pnl": 7
+                    }
+                ]
+            },
+            {
+                "name": "Rates Swap",
+                "color": "hsl(253, 70%, 50%)",
+                "children": [
+                    {
+                        "name": "Enigma Crypto",
+                        "color": "hsl(217, 70%, 50%)",
+                        "pnl": 13
+                    },
+                    {
+                        "name": "Makor Fixed Income",
+                        "color": "hsl(346, 70%, 50%)",
+                        "pnl": 7
+                    },
+                    {
+                        "name": "OG NY Derivates",
+                        "color": "hsl(253, 70%, 50%)",
+                        "pnl": 7
+                    },
+                    {
+                        "name": "Makor Equity",
+                        "color": "hsl(253, 70%, 50%)",
+                        "pnl": 5
+                    },
+                    {
+                        "name": "OG ISR Equity",
+                        "color": "hsl(217, 70%, 50%)",
+                        "pnl": 7
+                    }
+                ]
+            }
+        ]
+    }
+}

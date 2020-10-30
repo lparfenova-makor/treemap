@@ -1,0 +1,43 @@
+{
+    "root": {
+        "name": "nivo",
+        "color": "hsl(273, 70%, 50%)",
+        "children": [
+            {
+                "name": "Equity",
+                "color": "hsl(217, 70%, 50%)",
+                "pnl": 150
+            },
+            {
+                "name": "Derivatives",
+                "color": "hsl(346, 70%, 50%)",
+                "pnl": 118
+            },
+            {
+                "name": "Fixed Income",
+                "color": "hsl(253, 70%, 50%)",
+                "pnl": 102
+            },
+            {
+                "name": "FX",
+                "color": "hsl(253, 70%, 50%)",
+                "pnl": 84
+            },
+            {
+                "name": "Research",
+                "color": "hsl(217, 70%, 50%)",
+                "pnl": 111
+            },
+            {
+                "name": "Structured",
+                "color": "hsl(346, 70%, 50%)",
+                "pnl": 130
+            },
+            {
+                "name": "Rates Swap",
+                "color": "hsl(253, 70%, 50%)",
+                "pnl": 92
+            }
+        ]
+    }
+}
